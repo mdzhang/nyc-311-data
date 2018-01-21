@@ -6,5 +6,6 @@ Project looking at NYC Open Data's [311 data set][311]
 
 ## Contributor
 
-- Jenna Davis
+- Jenna Davis <jennamkdavis@gmail.com>
 - Michelle D Zhang <zhang.michelle.d@gmail.com>
+
